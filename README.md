@@ -1,10 +1,10 @@
-# 🛑 Website Blocker (Python)
+# Website Blocker (Python)
 
 A simple Python script that blocks distracting websites by mapping them to localhost in the system's hosts file.
 
 ---
 
-## 🚀 Features
+## Features
 - Blocks or unblocks websites based on a time window
 - Works on **Windows, macOS, and Linux** (just edit the hosts file path if needed)
 - Can be automated with **Cron jobs** (Linux/macOS) or **Task Scheduler** (Windows)
